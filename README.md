@@ -90,9 +90,9 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="images/mergeSort.png" width="250"/>
-  <img src="images/quickSort.png" width="250"/>
-  <img src="images/c _katsayılari.png" width="250"/>
+  <img src="images/mergeSort.png" width="500"/>
+  <img src="images/quickSort.png" width="500"/>
+  <img src="images/c _katsayılari.png" width="500"/>
 </div>
 
 ---
