@@ -89,26 +89,11 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 
 
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-
-  <div align="center">
-    <img src="images/mergeSort.png" width="200"/>
-    <p><strong>Mergesort</strong></p>
-  </div>
-
-  <div align="center">
-    <img src="images/quickSort.png" width="200"/>
-    <p><strong>Quicksort</strong></p>
-  </div>
-
-  <div align="center">
-    <img src="images/c_katsayılari.png" width="200"/>
-    <p><strong>C Katsayıları</strong></p>
-  </div>
-
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="images/mergeSort.png" width="250"/>
+  <img src="images/quickSort.png" width="250"/>
+  <img src="images/c _katsayılari.png" width="250"/>
 </div>
-
-```
 
 ---
 
