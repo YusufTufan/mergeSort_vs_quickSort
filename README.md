@@ -96,11 +96,25 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 
 
 ```markdown
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193333.png" width="250"/>
-  <img src="https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193311.png" width="250"/>
-  <img src="https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193351.png" width="250"/>
+<div style="display: flex; justify-content: center; gap: 20px;">
+
+  <div align="center">
+    <img src="images/mergeSort.png" width="200"/>
+    <p><strong>Mergesort</strong></p>
+  </div>
+
+  <div align="center">
+    <img src="images/quickSort.png" width="200"/>
+    <p><strong>Quicksort</strong></p>
+  </div>
+
+  <div align="center">
+    <img src="images/c_katsayılari.png" width="200"/>
+    <p><strong>C Katsayıları</strong></p>
+  </div>
+
 </div>
+
 ```
 
 > Dosyalarını `images` klasörüne ekleyerek README ile birlikte GitHub'a yüklemen gerekir.
