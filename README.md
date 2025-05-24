@@ -95,7 +95,7 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 <img src="images/quickSort.png" width="500"/>
 
 ### C Katsayıları
-<img src="images/c_katsayılari.png" width="500"/>
+<img src="images/c _katsayılari.png" width="500"/>
 
 ---
 
