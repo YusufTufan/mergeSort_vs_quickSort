@@ -88,13 +88,6 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 ## 📉 Teorik ve Deneysel Kıyaslamalar
 
 
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="images/mergeSort.png" width="500"/>
-  <img src="images/quickSort.png" width="500"/>
-  <img src="images/c _katsayılari.png" width="500"/>
-</div>
-
 ### Mergesort
 <img src="images/mergeSort.png" width="500"/>
 
@@ -102,7 +95,7 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 <img src="images/quickSort.png" width="500"/>
 
 ### C Katsayıları
-<img src="images/c_katsayilari.png" width="500"/>
+<img src="images/c_katsayılari.png" width="500"/>
 
 ---
 
