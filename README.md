@@ -97,9 +97,9 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 > Aşağıdaki grafik görsellerini Markdown'a gömmek için bu şekilde yüklemelisin:
 
 ```markdown
-![Quick Sort: Deneysel vs Teorik](./images/quick_sort_graph.png)
-![Merge Sort: Deneysel vs Teorik](./images/merge_sort_graph.png)
-![c Katsayıları Karşılaştırması](./images/c_comparison.png)
+![Quick Sort: Deneysel vs Teorik]([https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193333.png])
+![Merge Sort: Deneysel vs Teorik]([https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193311.png])
+![c Katsayıları Karşılaştırması]([https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193351.png])
 ```
 
 > Dosyalarını `images` klasörüne ekleyerek README ile birlikte GitHub'a yüklemen gerekir.
