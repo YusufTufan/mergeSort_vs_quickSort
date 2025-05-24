@@ -94,13 +94,8 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 
 ## 📉 Teorik ve Deneysel Kıyaslamalar
 
-> Aşağıdaki grafik görsellerini Markdown'a gömmek için bu şekilde yüklemelisin:
 
 ```markdown
-![Quick Sort: Deneysel vs Teorik]([https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193333.png])
-![Merge Sort: Deneysel vs Teorik]([https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193311.png])
-![c Katsayıları Karşılaştırması]([https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193351.png])
-
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193333.png" width="250"/>
   <img src="https://github.com/YusufTufan/YusufTufan-mergeSort_vs_quickSort/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-24%20193311.png" width="250"/>
