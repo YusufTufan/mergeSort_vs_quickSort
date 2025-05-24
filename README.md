@@ -1,6 +1,4 @@
-
 ---
-
 ## 📄 Merge Sort ve Quick Sort Karşılaştırma Raporu
 
 ### 🔍 Giriş
@@ -20,7 +18,6 @@ c = \frac{T(n)}{n \log_2 n}
 $$
 
 ---
-
 ### 💻 Kodlar (Yorumlu)
 
 **Amaç:**
@@ -30,7 +27,6 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 * **Ölçüm:** `clock()` fonksiyonu ile sıralama işlemi süresi ölçülerek karşılaştırma yapılıyor.
 
 ---
-
 ### 🧮 Merge Sort & Quick Sort Uygulamaları
 
 #### 🔸 Merge Sort
@@ -48,7 +44,6 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 ---
 
 ### ⏱ Ortalama Çalışma Süresi Hesaplama
-
 `avgTime()` fonksiyonu ile:
 
 * Her testte rastgele dizi üretilir.
@@ -56,7 +51,6 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 * Hem **T(n)** hem **c** katsayısı hesaplanır.
 
 ---
-
 ## 📊 Deneysel Sonuçlar
 
 ### 📈 Merge Sort Sonuçları
@@ -84,18 +78,16 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 ---
 
 ## 📚 Genel Değerlendirme
-
 * Merge Sort her zaman **O(n log n)** garantisi verir.
 * Quick Sort daha hızlıdır ama kötü pivot seçiminde **O(n²)** olabilir.
 * Küçük veri setlerinde Quick Sort avantajlı.
 * Büyük veri setlerinde Merge Sort’un **RAM kullanımı** önemli hale gelir.
 
 ---
-
 ## 📉 Teorik ve Deneysel Kıyaslamalar
 
 
-```markdown
+
 <div style="display: flex; justify-content: center; gap: 20px;">
 
   <div align="center">
@@ -116,8 +108,6 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 </div>
 
 ```
-
-> Dosyalarını `images` klasörüne ekleyerek README ile birlikte GitHub'a yüklemen gerekir.
 
 ---
 
