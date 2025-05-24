@@ -95,6 +95,15 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
   <img src="images/c _katsayılari.png" width="500"/>
 </div>
 
+### Mergesort
+<img src="images/mergeSort.png" width="500"/>
+
+### Quicksort
+<img src="images/quickSort.png" width="500"/>
+
+### C Katsayıları
+<img src="images/c_katsayilari.png" width="500"/>
+
 ---
 
 ## 📌 Sonuç ve Tartışma
