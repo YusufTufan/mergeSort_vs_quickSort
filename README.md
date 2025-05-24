@@ -1,5 +1,3 @@
-GitHub `README.md` dosyası için, Word belgesindeki formatı **Markdown diline** dönüştürerek aynı görünümü elde edebiliriz. Aşağıya senin `.docx` dosyana birebir uygun olacak şekilde biçimlendirilmiş `README.md` içeriğini yazdım. Grafikleri Markdown'da doğrudan göstermek için görsel dosyalarını `.png` gibi eklemen gerekiyor; onları ayrıca yükleyebilirsin.
-
 ---
 
 ## 📄 Merge Sort ve Quick Sort Karşılaştırma Raporu
@@ -128,5 +126,3 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 * Merge Sort ise **kararlı ve garantili** bir algoritmadır.
 
 ---
-
-Hazır dosya olarak almak istersen bunu `.md` dosyasına dönüştürüp gönderebilirim. İstersen çizelgeleri gösteren görselleri de hazırlayıp ekleriz. Devam edelim mi?
